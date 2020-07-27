@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="B-39" size="5.000000 4.789272" />
+    <ImageTarget name="B-38" size="5.000000 4.789272" />
+    <ImageTarget name="B-37" size="5.000000 4.789272" />
+    <ImageTarget name="B-36" size="5.000000 4.789272" />
+    <ImageTarget name="B-35" size="5.000000 4.789272" />
+    <ImageTarget name="B-34" size="5.000000 4.789272" />
+    <ImageTarget name="B-33" size="5.000000 4.789272" />
+    <ImageTarget name="B-32" size="5.000000 4.789272" />
+    <ImageTarget name="B-31" size="5.000000 4.789272" />
+    <ImageTarget name="B-30" size="5.000000 4.789272" />
+    <ImageTarget name="B-29" size="5.000000 4.789272" />
+    <ImageTarget name="B-28" size="5.000000 4.789272" />
+    <ImageTarget name="B-27" size="5.000000 4.789272" />
+    <ImageTarget name="B-26" size="5.000000 4.789272" />
+    <ImageTarget name="B-25" size="5.000000 4.789272" />
+    <ImageTarget name="B-24" size="5.000000 4.789272" />
+    <ImageTarget name="B-23" size="5.000000 4.789272" />
+    <ImageTarget name="B-22" size="5.000000 4.789272" />
+    <ImageTarget name="B-21" size="5.000000 4.789272" />
+    <ImageTarget name="B-20" size="5.000000 4.789272" />
+    <ImageTarget name="B-19" size="5.000000 4.789272" />
+    <ImageTarget name="B-18" size="5.000000 4.789272" />
+    <ImageTarget name="B-17" size="5.000000 4.789272" />
+    <ImageTarget name="B-16" size="5.000000 4.789272" />
+    <ImageTarget name="B-15" size="5.000000 4.789272" />
+    <ImageTarget name="B-14" size="5.000000 4.789272" />
+    <ImageTarget name="B-13" size="5.000000 4.789272" />
+    <ImageTarget name="B-12" size="5.000000 4.789272" />
+    <ImageTarget name="B-11" size="5.000000 4.789272" />
+    <ImageTarget name="B-10" size="5.000000 4.789272" />
+    <ImageTarget name="B-9" size="5.000000 4.789272" />
+    <ImageTarget name="B-8" size="5.000000 4.789272" />
+    <ImageTarget name="B-7" size="5.000000 4.789272" />
+    <ImageTarget name="B-6" size="6.000000 5.747127" />
+    <ImageTarget name="B-5" size="5.000000 4.789272" />
+    <ImageTarget name="B-4" size="5.000000 4.789272" />
+    <ImageTarget name="B-3" size="5.000000 4.789272" />
+    <ImageTarget name="B-2" size="5.000000 4.789272" />
+    <ImageTarget name="B-1" size="5.000000 4.789272" />
+    <ImageTarget name="A-11" size="5.000000 4.789272" />
+    <ImageTarget name="A-10" size="5.000000 4.789272" />
+    <ImageTarget name="A-9" size="5.000000 4.789272" />
+    <ImageTarget name="A-8" size="5.000000 4.789272" />
+    <ImageTarget name="A-7" size="5.000000 4.789272" />
+    <ImageTarget name="A-6" size="5.000000 4.789272" />
+    <ImageTarget name="A-5" size="5.000000 4.789272" />
+    <ImageTarget name="A-4" size="5.000000 4.789272" />
+    <ImageTarget name="A-3" size="5.000000 4.789272" />
+    <ImageTarget name="A-2" size="5.000000 4.789272" />
+    <ImageTarget name="A-1" size="5.000000 4.789272" />
+  </Tracking>
+</QCARConfig>

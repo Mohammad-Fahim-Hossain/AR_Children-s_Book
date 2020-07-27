@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Sences/UI.unity
+    guid: 1b7e0246e33158c49ab4397d9b8cdf0f
+  - enabled: 1
+    path: Assets/Sences/BanglaAlpha.unity
+    guid: 714d850b273b4a6439921b9747dce398
+  - enabled: 1
+    path: Assets/Sences/BanglaFruit.unity
+    guid: c2f9ccc91592fd343aa3726e22e7d29b
+  - enabled: 1
+    path: Assets/Sences/BanglaVideo.unity
+    guid: 7f804dca85d470545a82b6e8ed51bba7
+  - enabled: 1
+    path: Assets/Sences/EnglishAlpha.unity
+    guid: 50453c449c92e0d4db18b8cb622a8596
+  - enabled: 1
+    path: Assets/Sences/EnglishFruit.unity
+    guid: 494e228c6c98bb64a865fc66d5d5798c
+  - enabled: 1
+    path: Assets/Sences/EnglishVideo.unity
+    guid: 24ebad7305dccda438de378863a2e04a
+  m_configObjects: {}
